@@ -1,5 +1,5 @@
 ### SmileSchool Website
-![](https://github.com/chyna-gvng/j_codes-top-tier/blob/main/output/output.png)
+![](https://github.com/chyna-gvng/smileschool/blob/main/output/output.png)
 
 ### Languages
 - HTML5
